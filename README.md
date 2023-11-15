@@ -13,6 +13,7 @@ Rain streaks vary in size, direction, and density, resulting in serious blurring
 
 
 # Results
+![image](https://github.com/B201cv/MSDR-Net-Multi-Scale-Detail-Recovery-Network-for-Single-Image-Deraining/assets/150791781/d20c7aea-cb5a-41b1-a93b-0d97bf6736bb)
 
 ![image](https://github.com/B201cv/MSDR-Net-Multi-Scale-Detail-Recovery-Network-for-Single-Image-Deraining/assets/150791781/81dfb861-49de-415a-bf38-c22f64a25b28)
 ![image](https://github.com/B201cv/MSDR-Net-Multi-Scale-Detail-Recovery-Network-for-Single-Image-Deraining/assets/150791781/50be0423-dda2-4612-8009-aef7f8c79bce)
